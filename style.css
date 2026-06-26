@@ -1,0 +1,44 @@
+body {
+    font-family: Inter, system-ui, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f6fb;
+    color: #1f2937;
+}
+
+header {
+    background: #2563eb;
+    color: #ffffff;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+main {
+    max-width: 900px;
+    margin: 1.5rem auto;
+    padding: 0 1rem;
+}
+
+section {
+    background: #ffffff;
+    border-radius: 1rem;
+    box-shadow: 0 20px 50px rgba(15, 23, 42, 0.08);
+    padding: 1.75rem;
+}
+
+h1,
+h2 {
+    margin: 0 0 0.75rem;
+}
+
+p {
+    line-height: 1.75;
+    color: #4b5563;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    color: #6b7280;
+    font-size: 0.95rem;
+}
